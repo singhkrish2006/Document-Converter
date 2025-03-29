@@ -25,6 +25,5 @@ from word_pdf_converter import pdf_to_word
 pdf_to_word("output.pdf", "converted.docx")
 ```
 
-## License
-This project is open-source and available under the MIT License.
+
 
